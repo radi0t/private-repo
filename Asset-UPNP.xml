@@ -48,3 +48,6 @@
 </Data>
 <WebUI>http://[IP]:[PORT:45537]/</WebUI>
 <Banner>http://shop.loxone.com/media/catalog/product/cache/10/image/600x400/9df78eab33525d08d6e5fb8d27136e95/2/0/200167-music-server-4_.png</Banner>
+<Icon>https://cdn3.iconfinder.com/data/icons/beos/BeOS_Audio_server.png</Icon>
+</Container>
+
