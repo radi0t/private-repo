@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
-<Name>Asset-UPNP RADIO</Name>
+<Name>Asset-UPNP [radio]</Name>
 <Beta>False</Beta>
 <Category>MediaServer:Music</Category>
-<Description>Asset UPNP b</Description>
+<Description>Asset UPNP</Description>
 <Registry>https://registry.hub.docker.com/u/rad1obowls/asset-upnp/</Registry>
 <Repository>rad1obowls/asset-upnp</Repository>
 <BindTime>true</BindTime>
