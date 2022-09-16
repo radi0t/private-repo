@@ -3,7 +3,7 @@
 <Name>Asset-UPnP</Name>
 <Beta>False</Beta>
 <Category>MediaServer:Music</Category>
-<Description>Asset UPnP V6.1</Description>
+<Description>Asset UPnP V7.4</Description>
 <Registry>https://registry.hub.docker.com/u/rad1obowls/asset-upnp/</Registry>
 <Repository>rad1obowls/asset-upnp</Repository>
 <BindTime>true</BindTime>
